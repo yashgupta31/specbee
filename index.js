@@ -9,13 +9,13 @@ const speakers = [
         name: "Jane Smith",
         role: "Lead Developer",
         company: "Tech Innovations",
-        image: "https://i.pinimg.com/originals/e5/3c/6b/e53c6bfa45da3f684fda60c4b21b1307.jpg"
+        image: "https://sm.askmen.com/t/askmen_in/article/f/facebook-p/facebook-profile-picture-affects-chances-of-gettin_fr3n.1200.jpg"
     },
     {
         name: "Michael Johnson",
         role: "Product Manager",
         company: "Creative Solutions",
-        image: "https://sm.askmen.com/t/askmen_in/article/f/facebook-p/facebook-profile-picture-affects-chances-of-gettin_fr3n.1200.jpg"
+        image: "https://i.pinimg.com/originals/e5/3c/6b/e53c6bfa45da3f684fda60c4b21b1307.jpg"
     },
     {
         name: "Emily Davis",
@@ -33,31 +33,31 @@ const speakers = [
         name: "Mary Brown",
         role: "Software Engineer",
         company: "Code Factory",
-        image: "https://via.placeholder.com/150"
+        image: "https://i.pinimg.com/originals/07/33/ba/0733ba760b29378474dea0fdbcb97107.png"
     },
     {
         name: "Robert Jones",
         role: "Chief Executive Officer",
         company: "Business Solutions",
-        image: "https://via.placeholder.com/150"
+        image: "https://blog-pixomatic.s3.appcnt.com/image/22/01/26/61f166e1377d4/_orig/pixomatic_1572877223091.png"
     },
     {
         name: "Linda Garcia",
         role: "Marketing Specialist",
         company: "Brand Agency",
-        image: "https://via.placeholder.com/150"
+        image: "https://cdn.openart.ai/stable_diffusion/0f26305f30636c01ed2b3ab7ed4117079f7b0796_2000x2000.webp"
     },
     {
         name: "David Martinez",
         role: "Sales Director",
         company: "Sales Group",
-        image: "https://via.placeholder.com/150"
+        image: "https://web.rupa.ai/wp-content/uploads/2023/06/GVS_A_positive_facial_expression_for_a_professional_profile_pic_e4c6acb9-1780-4deb-8def-ecb80f197f08.png"
     },
     {
         name: "Jennifer Taylor",
         role: "HR Manager",
         company: "People First",
-        image: "https://via.placeholder.com/150"
+        image: "https://www.corporatephotographerslondon.com/wp-content/uploads/2023/02/LinkedIn_Profile_Photo.jpg"
     },
     // {
     //     name: "William Anderson",
